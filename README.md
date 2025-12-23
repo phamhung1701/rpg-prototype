@@ -57,20 +57,6 @@ Assets/
 └── Scenes/                          # Game scenes
 ```
 
-## 🚀 Getting Started
-
-1. **Prerequisites**: Unity 2021.3 or later
-2. **Clone**:
-   ```bash
-   git clone https://github.com/phamhung1701/rpg-prototype.git
-   ```
-3. **Open in Unity**: Add the project folder to Unity Hub and open
-4. **Play**: Open the main scene and press Play
-
 ## 📝 Status
 
 🚧 **Work in Progress** - This is a learning prototype for practicing game development patterns and Unity mechanics.
-
-## 📄 License
-
-MIT License
